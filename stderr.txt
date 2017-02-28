@@ -1,0 +1,55 @@
+TypeError: Cannot read property 'match' of undefined
+    at Object.exports.response (/var/www/html/eliza/eliza.js:24:10)
+    at /var/www/html/eliza/server.js:21:23
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/var/www/html/eliza/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/eliza/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/var/www/html/eliza/node_modules/express/lib/router/index.js:330:12)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/index.js:271:10)
+    at /var/www/html/eliza/node_modules/body-parser/lib/read.js:129:5
+TypeError: Cannot read property 'match' of undefined
+    at Object.exports.response (/var/www/html/eliza/eliza.js:24:10)
+    at /var/www/html/eliza/server.js:21:23
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/var/www/html/eliza/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/eliza/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/var/www/html/eliza/node_modules/express/lib/router/index.js:330:12)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/var/www/html/eliza/node_modules/body-parser/lib/types/urlencoded.js:100:7)
+TypeError: Cannot read property 'match' of undefined
+    at Object.exports.response (/var/www/html/eliza/eliza.js:24:10)
+    at /var/www/html/eliza/server.js:21:23
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/var/www/html/eliza/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/eliza/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/var/www/html/eliza/node_modules/express/lib/router/index.js:330:12)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/var/www/html/eliza/node_modules/body-parser/lib/types/urlencoded.js:100:7)
+TypeError: Cannot read property 'match' of undefined
+    at Object.exports.response (/var/www/html/eliza/eliza.js:24:10)
+    at /var/www/html/eliza/server.js:13:23
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/var/www/html/eliza/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/eliza/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/var/www/html/eliza/node_modules/express/lib/router/index.js:330:12)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/var/www/html/eliza/node_modules/body-parser/lib/types/urlencoded.js:91:7)
+TypeError: Cannot read property 'match' of undefined
+    at Object.exports.response (/var/www/html/eliza/eliza.js:24:10)
+    at /var/www/html/eliza/server.js:13:23
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/var/www/html/eliza/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/eliza/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/eliza/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/var/www/html/eliza/node_modules/express/lib/router/index.js:330:12)
+    at next (/var/www/html/eliza/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/var/www/html/eliza/node_modules/body-parser/lib/types/urlencoded.js:91:7)
